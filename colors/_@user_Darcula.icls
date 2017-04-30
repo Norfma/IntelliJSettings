@@ -4,11 +4,18 @@
     <property name="created">2017-04-20T22:18:26</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2017.1.1.0.0</property>
-    <property name="modified">2017-04-30T10:09:17</property>
+    <property name="modified">2017-04-30T10:58:50</property>
     <property name="originalScheme">Darcula</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="16" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="EDITOR_FONT_NAME" value="Fira Code" />
+  <attributes>
+    <option name="OC.NAMESPACE_LIKE">
+      <value>
+        <option name="FOREGROUND" value="8e9ee3" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
