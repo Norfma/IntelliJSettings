@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '[angular] - ...\root\app\components\groups\group-list\group-list.component.ts'" />
+    <option name="defaultScopeName" value="File '[angular] - ...\root\app\components\groups\group-list\group-list.component.ts'" />
+    <option name="SEARCH_SCOPE" value="File '[angular] - ...\root\app\components\groups\group-list\group-list.component.ts'" />
   </component>
 </application>
