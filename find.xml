@@ -13,8 +13,13 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.</mask>
-      <mask>*.C</mask>
+      <mask>.json</mask>
+      <mask>.jso</mask>
+      <mask>.js</mask>
+      <mask>.j</mask>
+      <mask>.</mask>
+      <mask>.conf</mask>
+      <mask>.con</mask>
     </recentFileMasks>
   </component>
 </application>

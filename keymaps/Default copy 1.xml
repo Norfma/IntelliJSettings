@@ -1,9 +1,22 @@
-<keymap version="1" name="Default copy" parent="$default">
+<keymap version="1" name="Default copy 1" parent="$default">
+  <action id="$Copy">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
+  <action id="$Cut">
+    <keyboard-shortcut first-keystroke="ctrl x" />
+  </action>
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+  </action>
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl colon" />
+  </action>
   <action id="CommentByLineComment">
-    <keyboard-shortcut first-keystroke="ctrl slash" />
     <keyboard-shortcut first-keystroke="ctrl divide" />
     <keyboard-shortcut first-keystroke="ctrl colon" />
   </action>
+  <action id="DecreaseColumnWidth" />
   <action id="EditorNextWord" />
   <action id="EditorNextWordInDifferentHumpsMode">
     <keyboard-shortcut first-keystroke="ctrl right" />
@@ -20,7 +33,14 @@
     <keyboard-shortcut first-keystroke="shift ctrl left" />
   </action>
   <action id="EditorPreviousWordWithSelection" />
-  <action id="OpenInBrowser">
-    <keyboard-shortcut first-keystroke="shift alt f2" />
+  <action id="IncreaseColumnWidth" />
+  <action id="IncrementWindowWidth" />
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="shift insert" />
+  </action>
+  <action id="ResizeToolWindowLeft" />
+  <action id="ResizeToolWindowRight" />
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
   </action>
 </keymap>
