@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="FileManagementService" type="CLASS" />
       <mapping pattern="FileManagementService.java" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
