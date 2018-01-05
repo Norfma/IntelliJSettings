@@ -19,9 +19,11 @@
       <mask>.jso</mask>
       <mask>.conf</mask>
       <mask>.con</mask>
-      <mask>.j</mask>
-      <mask>.</mask>
       <mask>.js</mask>
+      <mask>.j</mask>
+      <mask>.ts</mask>
+      <mask>.t</mask>
+      <mask>.</mask>
     </recentFileMasks>
   </component>
 </application>
