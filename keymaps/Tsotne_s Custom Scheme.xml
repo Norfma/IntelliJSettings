@@ -1,4 +1,4 @@
-<keymap version="1" name="Default copy 1" parent="$default">
+<keymap version="1" name="Tsotne's Custom Scheme" parent="$default">
   <action id="$Copy">
     <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
@@ -7,6 +7,10 @@
   </action>
   <action id="$Paste">
     <keyboard-shortcut first-keystroke="ctrl v" />
+  </action>
+  <action id="Back">
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="altGraph left" />
   </action>
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift ctrl divide" />
@@ -33,6 +37,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl left" />
   </action>
   <action id="EditorPreviousWordWithSelection" />
+  <action id="Forward">
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="altGraph right" />
+  </action>
   <action id="IncreaseColumnWidth" />
   <action id="IncrementWindowWidth" />
   <action id="NewFile">
