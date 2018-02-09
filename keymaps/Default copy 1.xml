@@ -1,0 +1,7 @@
+<keymap version="1" name="Default copy 1" parent="$default">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
+</keymap>
